@@ -1,0 +1,2 @@
+# Flutter-OnlyNews-Project
+ This Flutter news application developed by six friends offers users a sleek screen to log in with their personal profiles. Categorized news can be customized based on users' interests. Additionally, the app features a single entertaining mini-game. This game provides users with an experience where they can relieve stress, challenge their brains, and have fun. In this way, users can easily access current news while also enjoying some leisure time with an entertaining game.
